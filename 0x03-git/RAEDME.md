@@ -1,1 +1,1 @@
-GIT is FUN
+GIT is FUN indeed it is
